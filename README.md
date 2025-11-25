@@ -1,8 +1,9 @@
 ### Hello there 👋
 
-#### I'm a Full-Stack Software Engineer who specialises in PHP
+#### I'm a Senior Software Engineer who specialises in PHP
 
-💼 PHP Software Engineer at [Active Value](https://www.active-value.de/) <br>
+💼 Senior Software Engineer at [Active Value](https://www.active-value.de/) <br>
 🔨 PHP Community Engineer at [Prismic](https://prismic.io/) <br>
+🔧 Core Team Member & Contributor to [Peck PHP](https://github.com/peckphp/peck) <br>
 🎓 B.Sc. Computer Science from [HS Niederrhein](https://www.hs-niederrhein.de/faculties/electrical-engineering-and-computer-science/) <br>
-👨‍💻 Founder, Developer and Consultant at [19 Webdesign](https://19webdesign.com/) <br>
+👨‍💻 Founder, Software Engineer and Consultant at [19 Webdesign](https://19webdesign.com/) <br>
